@@ -798,3 +798,127 @@ msgstr[1] "{} minutes ago"
 msgid "✓ SUBSCRIBED"
 msgstr "✓ SUBSCRIBED"
 
+#: openpilot/selfdrive/ui/layouts/settings/developer.py
+msgid "Model Confidence Overlay"
+msgstr "Model Confidence Overlay"
+
+#: openpilot/selfdrive/ui/layouts/settings/developer.py
+msgid "Show driving model confidence and data freshness (model, radar, vehicle, controls, calibration) as an overlay on the road view. Values below threshold are explained, but the overlay is advisory only and never affects vehicle control."
+msgstr "Show driving model confidence and data freshness (model, radar, vehicle, controls, calibration) as an overlay on the road view. Values below threshold are explained, but the overlay is advisory only and never affects vehicle control."
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "Model Health"
+msgstr "Model Health"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "waiting"
+msgstr "waiting"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "normal"
+msgstr "normal"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "degraded"
+msgstr "degraded"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "critical"
+msgstr "critical"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "confidence"
+msgstr "confidence"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "high"
+msgstr "high"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "reduced"
+msgstr "reduced"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "low"
+msgstr "low"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "driving model"
+msgstr "driving model"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "radar"
+msgstr "radar"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "vehicle"
+msgstr "vehicle"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "controls"
+msgstr "controls"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "calibration"
+msgstr "calibration"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "frame age"
+msgstr "frame age"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "drops"
+msgstr "drops"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model output stale"
+msgstr "model output stale"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model output invalid"
+msgstr "model output invalid"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model output delayed"
+msgstr "model output delayed"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model confidence unknown"
+msgstr "model confidence unknown"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model confidence very low"
+msgstr "model confidence very low"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model confidence low"
+msgstr "model confidence low"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model processing old camera frames"
+msgstr "model processing old camera frames"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "high camera frame drop rate"
+msgstr "high camera frame drop rate"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "model execution slow"
+msgstr "model execution slow"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "no data"
+msgstr "no data"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "invalid data"
+msgstr "invalid data"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "delayed"
+msgstr "delayed"
+
+#: openpilot/selfdrive/ui/onroad/model_health_overlay.py
+msgid "irregular rate"
+msgstr "irregular rate"
+
